@@ -1,2 +1,2 @@
 # Informatica
-# Primeira tarefa apresentação 
+# Primeira tarefa: apresentação 
