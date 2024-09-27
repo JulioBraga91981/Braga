@@ -27,3 +27,8 @@ Olá, sou o Julio Braga! Sou estudante de Logística na Fatec no período noturn
 
 # Primeira tarefa: apresentação 
 [Apresentação Pessoal em Grupo](https://www.canva.com/design/DAGNZwywy3o/msgGjdCYuYnAUImQooENDg/edit?utm_content=DAGNZwywy3o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+# Power BI - 27/09/2024
+![image](https://github.com/user-attachments/assets/7fad0432-d699-4117-ba10-d5828f3e3ad4)
+
+
